@@ -23,6 +23,11 @@
 
   "license": "ISC",
 
+  "bugs": {
+    "url": "ghttps://github.com/imlakshayd/comp3104/issues"},
+
+  "homepage": "https://imlakshayd.github.io/comp3104/",
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
