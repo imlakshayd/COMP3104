@@ -26,7 +26,7 @@
   "bugs": {
     "url": "ghttps://github.com/imlakshayd/comp3104/issues"},
 
-  "homepage": "https://imlakshayd.github.com/comp3104/",
+  "homepage": "https://imlakshayd.github.io/comp3104",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
